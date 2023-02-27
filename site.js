@@ -34,6 +34,10 @@ const vue_app = Vue.createApp({
             // This holds your movies.json data.
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
+            
+      const_title : "IMDB + Jolie’s Top 8 Movies",
+      const_owner : "Jolie", 
+      const_github : "http://www.github.com/jolieesk/NJIT-3",
          
       }
     },
@@ -43,3 +47,4 @@ const vue_app = Vue.createApp({
 })
 
 vue_app.mount("#vue_app")
+
