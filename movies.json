@@ -68,5 +68,53 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+
+      {
+            "title": "Kissing Booth",
+            "iscore": 5.9,
+            "rating": "R",
+            "runtime": 105,
+            "released": [2018, 5, 11],
+            "country": "USA",
+            "posters": ["https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_.jpg", "https://m.media-amazon.com/images/M/MV5BYzE1YzViNzktZTU5Ny00ZjYzLWE0YjItZWNkNDU1MzFiOWNhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg", "https://assets.teenvogue.com/photos/5bd8b3b8f8b15a06854c3a75/2:3/w_1866,h_2799,c_limit/tout.jpg"],
+            "imdb": "https://www.imdb.com/title/tt3799232/",
+            "website": "https://www.netflix.com/title/80143556",
+            "likes": 600,
+            "dislikes": 90,
+            "posterindex": 0
+      },
+
+      {
+            "title": "Missing",
+            "iscore": 7.3,
+            "rating": "R",
+            "runtime": 111,
+            "released": [2023, 1, 20],
+            "country": "USA",
+            "posters": ["https://m.media-amazon.com/images/M/MV5BM2Q5ODdmOGEtMThiMS00MjM3LWJkZjYtN2ZlNGI0ZGQxOTdjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg" , "https://images.paramount.tech/uri/mgid:arc:imageassetref:shared.betplus.us:cbe62ea9-4a6e-4259-b3ea-940f03ad042a?quality=0.7&gen=ntrn&legacyStatusCode=true"],
+            "imdb": "https://www.netflix.com/bq/title/80028426",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 700,
+            "dislikes": 109,
+            "posterindex": 0
+      },
+
+      
+       {
+            "title": "Fast and Furious",
+            "iscore": 7.2,
+            "rating": "R",
+            "runtime": 137,
+            "released": [2001, 6, 22],
+            "country": "USA",
+            "posters": ["https://www.tvguide.com/a/img/catalog/provider/1/2/1-8885583834.jpg" , "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg" , "https://amc-theatres-res.cloudinary.com/v1640091965/amc-cdn/production/2/movies/50300/50281/Poster/Primary_BoxCover_800_1200.jpg"], 
+            "imdb": "https://www.imdb.com/title/tt0232500/",
+            "website": "https://www.netflix.com/title/80225085",
+            "likes": 855,
+            "dislikes": 99,
+            "posterindex": 0
       }
+
+
 ]
